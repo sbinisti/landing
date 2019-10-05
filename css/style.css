@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Cookie|Great+Vibes|Lora|Neuton&display=swap);
+@import url("components/container.css");
+@import	url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family:"Neuton", serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: "Great Vibes", cursive;
+	font-weight: lighter;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+h2 {
+	font-size: 45px;
+	margin-top: 50px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#quote {
+	font-style: italic;
+	font-family: "Cookie", cursive;
+	font-size: 28px;
+	margin-bottom: 50px;
+}
+
+.correction h2 {
+	margin-top: 40px;
+}
